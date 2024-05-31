@@ -1,7 +1,6 @@
 # JOHN_THE_RIPPER
 
 •	Powerful and popular open-source password cracking tool.
-
 •	Known for its versatility and capability to crack various types of password hashes through different attack methods.
 •	Johny is a user-friendly graphical interface that makes john the ripper more accessible to non-technical users.
 •	Testing the security of your own passwords or recovering the lost credentials
