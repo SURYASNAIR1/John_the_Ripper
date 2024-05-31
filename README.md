@@ -48,7 +48,7 @@
 
 •	Progress bar: provide a visual representation of the cracking process making it easy to track.
 
-# Example1: How to crack any type of Hash?
+# Example 1: How to crack any type of Hash?
 
 •	Open web browser and search for online hash generator. Let’s generate a MD5 hash.
 
