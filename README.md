@@ -24,7 +24,7 @@
 
 •	Open kali and then type john --help
 
-•	Usage:  <span style="color: red"> john [OPTIONS] [PASSWORD-FILES] </span>
+• <span style="color: red"> Usage: john [OPTIONS] [PASSWORD-FILES] </span>
 
 •	Johny features a wizard mode that guides users through the necessary steps to start password cracking without requiring in depth technical knowledge.
 
