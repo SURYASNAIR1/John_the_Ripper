@@ -54,7 +54,7 @@ Crack the hash using a GUI
 •	Thus, we will get the password.
 
 
-*Example 2: How to crack a password protected encrypted file like .zip, .rar?*
+# Example 2: How to crack a password protected encrypted file like .zip, .rar?
 
 •	I have test.zip in my kali. 
 •	Open the terminal and type zip2john test.zip > test.txt
@@ -63,7 +63,7 @@ Crack the hash using a GUI
 •	Thus, we will be able to get the password use the password after extracting the zip file and to open it.
 •	Similar way for .rar also.
 
-*Example 3: How to crack a password protected PDF File?*
+# Example 3: How to crack a password protected PDF File?
 
 •	I have a pdf with name test.pdf.
 •	Open terminal in kali and type pdf2john test.pdf > test.txt
@@ -71,7 +71,7 @@ Crack the hash using a GUI
 •	Thus, we will be able to get the password use the password to open pdf file.
 
 
-*Example 4: How to crack a Linux Passwords?*
+# Example 4: How to crack a Linux Passwords?
 
 •	Set up 3 users in the Linux system in ubuntu.
 •	Boot your system using a kali Linux USB drive.
@@ -93,7 +93,7 @@ locate rockyou.txt
 sudo john - -format=crypt linuxpass.txt - -wordlist=/usr/share/wordlists/rockyou.txt
 •	Thus, we can be able to see the passwords
 
-*Example 5: How to crack windows password?*
+# Example 5: How to crack windows password?
 
 •	Created two users in windows.
 •	Usually in windows the user passwords are stored inside security account manager file.
